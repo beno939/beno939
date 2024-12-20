@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding   
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+- 📫 How to reach me ... bidrizi32@gmail.com
+- 
 
 <!---
 beno939/beno939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
